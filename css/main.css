@@ -47,6 +47,8 @@
     height: 300px;
     padding: 30px 0;
     border-top: 2px solid #6D4E39;
+    background-image: url(../assets/graos-de-cafe.jpg);
+    background-size: 100%;
 }
 
 .cartao-de-qualidade{
@@ -55,6 +57,7 @@
     border: 2px solid #6D4E39;
     padding: 15px;
     box-shadow: 2px 2px 6px rgb(158, 157, 157);
+    background-color: #FCF2D7;
 }
 
 .cartao-de-qualidade h1{
